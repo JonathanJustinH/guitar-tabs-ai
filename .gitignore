@@ -14,3 +14,8 @@ backup/
 venv/
 .venv/
 
+# Unused old code
+onsets_and_frames/
+evaluate.py
+transcribe.py
+
