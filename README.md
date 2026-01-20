@@ -4,7 +4,7 @@ A PyTorch-based guitar audio transcription system that converts guitar audio rec
 
 ## Demo
 
-Try the live demo on [Hugging Face Spaces](https://huggingface.co/spaces/JonathanJH/guitar-tabs-ai)
+[Hugging Face Spaces](https://huggingface.co/spaces/JonathanJH/guitar-tabs-ai)
 
 ## Dataset
 
